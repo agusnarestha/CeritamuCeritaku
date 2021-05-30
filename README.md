@@ -22,9 +22,10 @@ Website CeritamuCeritaku yaitu website yang bertemakan tentang cerita yang bisa 
 * [Merubah .env](#merubah-.env)
 * [Membuat Table Migration Laravel](#membuat-table-migration-laravel)
 * [Menjalankan Website](#menjalankan-website)
+* [Membuat Vendor](#membuat-vendor)
 
 ## Project GitLab
-Projet ini awalnya dikerjakan di 
+Project ini awalnya dikerjakan di 
 [GitLab](https://gitlab.com/agusnarestha/final-projek-laravel-sanber)
 
 ### Mengunduh Repository
@@ -33,6 +34,8 @@ repository dapat dilihat di dalam repository yang diinginkan.
 ```
 git clone https://github.com/agusnarestha/CeritamuCeritaku.git 
 ```
+### Membuat Vendor
+Membuat vendor menggunakan perintah `composer install` atau `composer update`
 
 ### Merubah .env
 * Duplikat example.env

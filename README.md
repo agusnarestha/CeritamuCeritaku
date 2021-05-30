@@ -19,10 +19,10 @@ Website CeritamuCeritaku yaitu website yang bertemakan tentang cerita yang bisa 
 
 ## Tata Cara Menggunakan Website CeritamuCeritaku
 * [Mengunduh repository ke dalam komputer](#mengunduh-repository)
+* [Membuat Vendor](#membuat-vendor)
 * [Merubah .env](#merubah-.env)
 * [Membuat Table Migration Laravel](#membuat-table-migration-laravel)
 * [Menjalankan Website](#menjalankan-website)
-* [Membuat Vendor](#membuat-vendor)
 
 ## Project GitLab
 Project ini awalnya dikerjakan di 

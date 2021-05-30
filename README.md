@@ -1,5 +1,11 @@
-# Website CeritamuCeritaku
+[img1]: image/1.png
+[img2]: image/2.png
+[img3]: image/3.png
 
+# Website CeritamuCeritaku
+![1][img1]
+![2][img2]
+![3][img3]
 ## Tentang CeritamuCeritaku
 Website CeritamuCeritaku yaitu website yang bertemakan tentang cerita yang bisa melakukan sharing cerita antar user, website ini terinsirasi dari [WATTPAD](https://wattpad.con)
 #### Dibuat dengan :

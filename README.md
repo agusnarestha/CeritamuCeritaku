@@ -17,6 +17,9 @@ Website CeritamuCeritaku yaitu website yang bertemakan tentang cerita yang bisa 
 * [Membuat Table Migration Laravel](#membuat-table-migration-laravel)
 * [Menjalankan Website](#menjalankan-website)
 
+## Project GitLab
+[GitLab](https://gitlab.com/agusnarestha/final-projek-laravel-sanber)
+
 ### Mengunduh Repository
 Unduh repository ke dalam komputer menggunakan perintah `git clone`. Url
 repository dapat dilihat di dalam repository yang diinginkan.

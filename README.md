@@ -7,10 +7,12 @@
 ![2][img2]
 ![3][img3]
 ## Tentang CeritamuCeritaku
-Website CeritamuCeritaku yaitu website yang bertemakan tentang cerita yang bisa melakukan sharing cerita antar user, website ini terinsirasi dari [WATTPAD](https://wattpad.con)
+Website CeritamuCeritaku yaitu website yang bertemakan tentang cerita yang bisa melakukan sharing cerita antar user, website ini terinsirasi dari [WATTPAD](https://wattpad.com)
 #### Dibuat dengan :
-* [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 * [Laravel 6.x](https://laravel.com/docs/6.x)
+* [AdminLTE](https://adminlte.io/)
+* [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+
 
 ### Contributor :
 * Putu Agus Narestha Adi Pratama

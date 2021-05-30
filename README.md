@@ -13,7 +13,9 @@ Website CeritamuCeritaku yaitu website yang bertemakan tentang cerita yang bisa 
 
 ## Tata Cara Menggunakan Website CeritamuCeritaku
 * [Mengunduh repository ke dalam komputer](#mengunduh-repository)
-* [Merubah .env]()
+* [Merubah .env](#merubah-.env)
+* [Membuat Table Migration Laravel](#membuat-table-migration-laravel)
+* [Menjalankan Website](#menjalankan-website)
 
 ### Mengunduh Repository
 Unduh repository ke dalam komputer menggunakan perintah `git clone`. Url

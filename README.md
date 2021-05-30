@@ -18,6 +18,7 @@ Website CeritamuCeritaku yaitu website yang bertemakan tentang cerita yang bisa 
 * [Menjalankan Website](#menjalankan-website)
 
 ## Project GitLab
+Projet ini awalnya dikerjakan di GitLab
 [GitLab](https://gitlab.com/agusnarestha/final-projek-laravel-sanber)
 
 ### Mengunduh Repository
